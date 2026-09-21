@@ -1,0 +1,17 @@
+{
+  "name": "Canal Metropol",
+  "short_name": "Metropol",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Tu música, tu estación en directo.",
+  "icons": [
+    {
+      "src": "https://canalmetropol.com/wp-content/uploads/2021/08/logo-metropol.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
